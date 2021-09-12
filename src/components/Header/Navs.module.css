@@ -1,0 +1,13 @@
+.navs {
+  list-style: none;
+  display: flex;
+  font-size: 15px;
+}
+
+.navs a {
+  color: white;
+  text-decoration: none;
+}
+.activated {
+  color: red;
+}
